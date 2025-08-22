@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Tushar Raja  
+🎓 Student | 💻 AIML Enthusiast | 🚀 GEN-AI Learner  
 
-<!--
-**TusharRaj0/TusharRaj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Machine Learning Projects**  
+- 🌱 Learning **Deep Learning & Gen-AI**  
+- 💬 Ask me about **Java, DSA, Python**  
+- 📫 Reach me at **your_email@example.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=yellow)
